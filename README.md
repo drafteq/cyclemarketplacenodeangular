@@ -11,7 +11,7 @@ Framework : AngularJS ( Angular.js , Express.js and promises )
 Database : Mongoose
 Languages : JavaScript , TypeScript
 ```
-*PS : Projecr created within 3.00 - 4.00 hrs timeframe. Project focus was on implementation, logic. No CSS framework has been used here.*
+*Project focus was on implementation, logic. No CSS framework has been used here.*
 
 ## Features : 
 
